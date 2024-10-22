@@ -24,6 +24,7 @@ A powerful and user-friendly Python script for managing Azure Virtual Machines u
 - 📊 Display VM information in a colorful, easy-to-read table
 - 🔄 Efficient caching of VM status data for quick filtering
 - 🎯 Interactive prompts for VM management actions
+- 📝 Logging of actions and errors using the Rich library
 
 ## 🛠 Requirements
 
@@ -32,6 +33,7 @@ A powerful and user-friendly Python script for managing Azure Virtual Machines u
 - Rich library for Python
 - Active Azure subscription
 - Proper Azure credentials configured
+- Logging setup using the Rich library
 
 ## 📥 Installation
 
